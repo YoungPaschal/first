@@ -1,0 +1,86 @@
+.update{
+    background-color: hsl(0, 100%, 74%);
+    display: flex;
+}
+.update:hover{
+    cursor: zoom-in;
+}
+.down{
+    color: white;
+    padding-top: 250px;
+    padding-left: 300px;
+    display: flex;
+    flex-direction: column;
+    
+}
+.gg{
+    display: flex;
+}
+.one{
+    border: 0px solid rgb(0, 0, 0.1);
+    background-color: white;
+    width: 400px;
+    padding: 30px;
+    padding-left: 10px;
+    border-radius: 10px;
+    box-shadow: 0px 9px 9px black;
+    
+}
+.two{
+    background-color: hsl(248, 32%, 49%);
+    color: white;
+    padding: 10px;
+    width: 440px;
+    margin: 20px;
+    border-radius: 10px;
+    font-size: 9px;
+    box-shadow: 0px 8px 9px #888;
+}
+.ten{
+    font-size: 17px;
+    font-style: unset;
+}
+.up{
+    font-size: 50px;
+    
+}
+.three{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 800px;
+    margin-top: 200px;
+    position: fixed;
+    
+}
+.kc{
+    padding:  10px;
+    width:  380px;
+    margin:2px;
+}
+.dk{
+    background-color: hsl(154, 59%, 51%);
+    color: white;
+    padding: 15px;
+    width: 395px;
+    margin: 10px;
+    font-size: 14px;
+    align-items: center;
+    border-radius: 10px;
+    
+}
+.dk:hover{
+    background-color: blue;
+    cursor: wait;
+}
+.ff{
+    font-size: 11px;
+}
+.tm{
+    color: red;
+}
+.fm{
+    font-size: 8px;
+    text-align: center;
+    color: darkgrey;
+}
